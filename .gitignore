@@ -30,5 +30,5 @@
 *.vrb
 *.xdy
 *.tdo
-draft.docx
+*.docx
 .DS_Store
